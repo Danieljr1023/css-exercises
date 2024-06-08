@@ -1,0 +1,17 @@
+/* styles.css */
+
+.odd { /*This class will be applied to all odd numbered elements in the HTML page*/
+
+}
+
+.big { /*This class will be applied to the elements that needs to be 24px sized*/
+
+}
+
+#big-blue { /*This ID will be used in an element to make it blue colored and 36px sized*/
+
+}
+
+#back-green { /*This ID will be used in an element to make it bold and light-green backgrounded*/
+
+}
