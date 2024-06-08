@@ -6,7 +6,7 @@
 }
 
 .big { /*This class will be applied to the elements that needs to be 24px sized*/
-
+    font-size: 24px;
 }
 
 #big-blue { /*This ID will be used in an element to make it blue colored and 36px sized*/
