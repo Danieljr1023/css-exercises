@@ -15,5 +15,7 @@
 }
 
 #back-green { /*This ID will be used in an element to make it bold and light-green backgrounded*/
-
+    background-color: hsl(123, 100%, 71%);
+    font-weight: bold;
+    font-size: 24px;
 }
