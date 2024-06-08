@@ -8,7 +8,9 @@
 }
 
 .one { /*a black background, white text color, and a bold font weight*/
-
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
 }
 
 .two { /*a yellow background*/
