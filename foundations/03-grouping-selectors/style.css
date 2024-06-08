@@ -14,5 +14,5 @@
 }
 
 .two { /*a yellow background*/
-
+    background-color: hsl(60, 100%, 50%);
 }
