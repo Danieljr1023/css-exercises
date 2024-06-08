@@ -1,0 +1,15 @@
+/* style.css */
+
+.one,
+.two { /*Shared properties between classes one and two*/
+        /*a font size of 28px and a list of fonts containing Helvetica and Times New Roman, with sans-serif as a fallback*/
+
+}
+
+.one { /*a black background, white text color, and a bold font weight*/
+
+}
+
+.two { /*a yellow background*/
+
+}
