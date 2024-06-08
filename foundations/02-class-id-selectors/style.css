@@ -10,7 +10,8 @@
 }
 
 #big-blue { /*This ID will be used in an element to make it blue colored and 36px sized*/
-
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
 }
 
 #back-green { /*This ID will be used in an element to make it bold and light-green backgrounded*/
