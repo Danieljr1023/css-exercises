@@ -1,7 +1,8 @@
 /* styles.css */
 
 .odd { /*This class will be applied to all odd numbered elements in the HTML page*/
-
+    background-color: hsl(0, 100%, 80%);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
 .big { /*This class will be applied to the elements that needs to be 24px sized*/
